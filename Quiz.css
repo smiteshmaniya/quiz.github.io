@@ -11,7 +11,8 @@
     background-color: antiquewhite;
 }
 .inner-container{
-    width: 550px;
+    max-width: 550px;
+    width: 90%;
     height: auto;
     padding: 20px 20px;
     background-color: aliceblue;
